@@ -1,0 +1,11 @@
+{
+  "name": "my-frontend-website",
+  "version": "1.0.0",
+  "description": "This will load my personal frontend website",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
